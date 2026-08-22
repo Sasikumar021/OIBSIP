@@ -454,12 +454,3 @@ Aspiring **Data Analyst**
 
 **Technical Skills:**
 `Python` · `SQL` · `Pandas` · `NumPy` · `Power BI` · `Excel` · `Matplotlib` · `Seaborn` · `Data Cleaning` · `EDA`
-
----
-
-## ⭐ Project
-
-This project was completed as part of **Oasis Infobyte Data Analytics – Level 1, Task 3: Cleaning Data**.
-
-The project demonstrates how raw, inconsistent data can be systematically cleaned, validated, analyzed, and prepared for downstream data analytics.
-
