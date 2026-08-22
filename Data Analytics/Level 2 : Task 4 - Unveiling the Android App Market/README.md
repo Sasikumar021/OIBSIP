@@ -111,13 +111,3 @@ The final notebook contains data-driven insights covering:
 - User sentiment
 - Opportunities for new applications
 
-## 💡 Business Recommendations
-
-The analysis concludes with recommendations for developers planning to launch a new application, based on category competition, ratings, installations, pricing and user sentiment.
-
-## 🚀 How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Sasikumar021/OIBSIP.git
